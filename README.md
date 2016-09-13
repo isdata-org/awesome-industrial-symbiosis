@@ -9,7 +9,7 @@ Databases and other resources for Industrial Symbiosis
 * [Phyllis2](https://www.ecn.nl/phyllis2/)
 * [The Materials Project](https://materialsproject.org/)
 
-## National Industrial Symbiosis/Waste Exchange Initiatives
+## Industrial Symbiosis/Waste Exchange Initiatives & Case Studies
 
 * [LOWaste](http://www.lowaste.it/en/)
 * [Finnish Industrial Symbiosis System](http://www.industrialsymbiosis.fi)
@@ -17,6 +17,7 @@ Databases and other resources for Industrial Symbiosis
 * [Waste Atlas](http://www.atlas.d-waste.com)
 * [The Near-Zero European Waste Innovation Network](http://www.newinnonet.eu/)
 * [US BCSD Materials Marketplace](http://materialsmarketplace.org)
+* [Eco-Industrial Park Wiki](http://ie.tbm.tudelft.nl/index.php/Main_Page)
 
 ## Facility Databases
 
