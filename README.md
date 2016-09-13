@@ -32,3 +32,5 @@ Databases and other resources for Industrial Symbiosis
 
 * [Semantic Catalogs of LCA Data](https://bkuczenski.github.io/lca-tools-datafiles/)
  	
+## Literature
+* [isdata-org/industrial-symbiosis-literature](https://github.com/isdata-org/industrial-symbiosis-literature) - Visual interface allowing you to explore literature on Industrial Symbiosis and Eco-Industrial Parks.
