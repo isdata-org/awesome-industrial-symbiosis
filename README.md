@@ -5,9 +5,9 @@ Databases and other resources for Industrial Symbiosis
 
 * [Biobank](http://www.ieabcc.nl/) - "is a set of three databases on the chemical composition of biomass fuels, ashes and condensates from flue gas condensors from real-life installations."
 * [BIOBIB](http://cdmaster2.vt.tuwien.ac.at/biobib/biobib.html) - "A Database for biofuels".  Also contains waste materials
-* [Biodat](http://www.biodat.eu/pages/Home.aspx)
-* [Phyllis2](https://www.ecn.nl/phyllis2/)
-* [The Materials Project](https://materialsproject.org/)
+* [Biodat](http://www.biodat.eu/pages/Home.aspx) - "contains information on biomass fuels and ashes"
+* [Phyllis2](https://www.ecn.nl/phyllis2/) - "database containing information on the composition of biomass and waste"
+* [The Materials Project](https://materialsproject.org/) - "By computing properties of all known materials, the Materials Project aims to remove guesswork from materials design in a variety of applications."
 
 ## Industrial Symbiosis/Waste Exchange Initiatives & Case Studies
 
