@@ -34,3 +34,6 @@ Databases and other resources for Industrial Symbiosis
  	
 ## Literature
 * [isdata-org/industrial-symbiosis-literature](https://github.com/isdata-org/industrial-symbiosis-literature) - Visual interface allowing you to explore literature on Industrial Symbiosis and Eco-Industrial Parks.
+
+## Classifications
+* [isdata-org/what-links-to-what](https://github.com/isdata-org/what-links-to-what) - Ongoing work to make traversing industry and product classifications easier.
