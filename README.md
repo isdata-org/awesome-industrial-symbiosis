@@ -8,6 +8,8 @@ Databases and other resources for Industrial Symbiosis
 
 ## Composition Databases
 
+* [Biobank](http://www.ieabcc.nl/) - "is a set of three databases on the chemical composition of biomass fuels, ashes and condensates from flue gas condensors from real-life installations."
+* [BIOBIB](http://cdmaster2.vt.tuwien.ac.at/biobib/biobib.html) - "A Database for biofuels".  Also contains waste materials
 * [Biodat](http://www.biodat.eu/pages/Home.aspx)
 * [Phyllis2](https://www.ecn.nl/phyllis2/)
 * [The Materials Project](https://materialsproject.org/)
