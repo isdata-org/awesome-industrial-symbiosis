@@ -1,12 +1,7 @@
 # awesome-industrial-symbiosis
 Databases and other resources for Industrial Symbiosis
 
-
-## Meta
-
-* [Global Partnership on Waste Management - Waste Management Databases](http://www.unep.org/gpwm/KnowledgePlatform/WasteManagementDatabases/tabid/79590/Default.aspx)
-
-## Composition Databases
+## Material Composition Databases
 
 * [Biobank](http://www.ieabcc.nl/) - "is a set of three databases on the chemical composition of biomass fuels, ashes and condensates from flue gas condensors from real-life installations."
 * [BIOBIB](http://cdmaster2.vt.tuwien.ac.at/biobib/biobib.html) - "A Database for biofuels".  Also contains waste materials
@@ -14,7 +9,7 @@ Databases and other resources for Industrial Symbiosis
 * [Phyllis2](https://www.ecn.nl/phyllis2/)
 * [The Materials Project](https://materialsproject.org/)
 
-## National Initiatives
+## National Industrial Symbiosis/Waste Exchange Initiatives
 
 * [LOWaste](http://www.lowaste.it/en/)
 * [Finnish Industrial Symbiosis System](http://www.industrialsymbiosis.fi)
@@ -37,3 +32,7 @@ Databases and other resources for Industrial Symbiosis
 
 ## Classifications
 * [isdata-org/what-links-to-what](https://github.com/isdata-org/what-links-to-what) - Ongoing work to make traversing industry and product classifications easier.
+
+## Lists of Databases
+
+* [Global Partnership on Waste Management - Waste Management Databases](http://www.unep.org/gpwm/KnowledgePlatform/WasteManagementDatabases/tabid/79590/Default.aspx)
