@@ -11,7 +11,7 @@ Databases and other resources for Industrial Symbiosis
 
 ## Industrial Symbiosis/Waste Exchange Initiatives & Case Studies
 
-* [LOWaste](http://www.lowaste.it/en/)
+* [LOWaste](http://www.lowaste.it/en/) - "The primary objective of LOWaste is to decrease the local production of waste through the development of a market for recycled products"
 * [Finnish Industrial Symbiosis System](http://www.industrialsymbiosis.fi)
 * [Industrial Symbiosis in Sweden](http://www.industriellekologi.se/symbiosis/)
 * [Waste Atlas](http://www.atlas.d-waste.com)
