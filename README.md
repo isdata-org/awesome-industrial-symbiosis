@@ -2,7 +2,6 @@
 Databases and other resources for Industrial Symbiosis
 
 ## Material Composition Databases
-
 * [Biobank](http://www.ieabcc.nl/) - "is a set of three databases on the chemical composition of biomass fuels, ashes and condensates from flue gas condensors from real-life installations."
 * [BIOBIB](http://cdmaster2.vt.tuwien.ac.at/biobib/biobib.html) - "A Database for biofuels".  Also contains waste materials
 * [Biodat](http://www.biodat.eu/pages/Home.aspx) - "contains information on biomass fuels and ashes"
@@ -15,7 +14,7 @@ Databases and other resources for Industrial Symbiosis
 * [The Near-Zero European Waste Innovation Network](http://www.newinnonet.eu/)
 * [US BCSD Materials Marketplace](http://materialsmarketplace.org)
 
-## Industrial Symbiosis Case Studies
+## Case Studies
 * [Eco-Industrial Park Wiki](http://ie.tbm.tudelft.nl/index.php/Main_Page)
 * [Finnish Industrial Symbiosis System](http://www.industrialsymbiosis.fi)
 * [Industrial Symbiosis in Sweden](http://www.industriellekologi.se/symbiosis/)
@@ -46,5 +45,5 @@ Databases and other resources for Industrial Symbiosis
 ## Industry & Product Classifications
 * [isdata-org/what-links-to-what](https://github.com/isdata-org/what-links-to-what) - Ongoing work to make traversing industry and product classifications easier.
 
-## Lists of Databases
+## Meta Lists of Databases
 * [Global Partnership on Waste Management - Waste Management Databases](http://www.unep.org/gpwm/KnowledgePlatform/WasteManagementDatabases/tabid/79590/Default.aspx)
