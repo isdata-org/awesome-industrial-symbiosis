@@ -32,6 +32,7 @@ Databases and other resources for Industrial Symbiosis
 * [CPM LCA Database](http://cpmdatabase.cpm.chalmers.se/)
 * [European reference Life Cycle Database (ELCD)](eplca.jrc.ec.europa.eu/ELCD3/index.xhtml)
 * [GaBi](http://www.gabi-software.com/international/databases/gabi-databases/)
+* [openLCA Nexus](https://nexus.openlca.org/) - search engine for several LCA databases
 * [Semantic Catalogs of LCA Data](https://bkuczenski.github.io/lca-tools-datafiles/)
 * [U.S. Life Cycle Inventory Database](http://www.nrel.gov/lci/)
  	
