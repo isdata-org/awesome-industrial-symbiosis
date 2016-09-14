@@ -9,14 +9,16 @@ Databases and other resources for Industrial Symbiosis
 * [Phyllis2](https://www.ecn.nl/phyllis2/) - "database containing information on the composition of biomass and waste"
 * [The Materials Project](https://materialsproject.org/) - "By computing properties of all known materials, the Materials Project aims to remove guesswork from materials design in a variety of applications."
 
-## Industrial Symbiosis/Waste Exchange Initiatives & Case Studies
-
+## Waste Exchanges
+* [US BCSD Materials Marketplace](http://materialsmarketplace.org)
 * [LOWaste](http://www.lowaste.it/en/) - "The primary objective of LOWaste is to decrease the local production of waste through the development of a market for recycled products"
+
+## Industrial Symbiosis/Waste Exchange Initiatives & Case Studies
 * [Finnish Industrial Symbiosis System](http://www.industrialsymbiosis.fi)
 * [Industrial Symbiosis in Sweden](http://www.industriellekologi.se/symbiosis/)
 * [Waste Atlas](http://www.atlas.d-waste.com)
 * [The Near-Zero European Waste Innovation Network](http://www.newinnonet.eu/)
-* [US BCSD Materials Marketplace](http://materialsmarketplace.org)
+* [IS Case Studies LinkedIn Group](https://www.linkedin.com/groups/3857726)
 * [Eco-Industrial Park Wiki](http://ie.tbm.tudelft.nl/index.php/Main_Page)
 
 ## Facility Databases
