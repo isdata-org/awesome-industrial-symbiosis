@@ -14,16 +14,16 @@ Databases and other resources for Industrial Symbiosis
 * [LOWaste](http://www.lowaste.it/en/) - "The primary objective of LOWaste is to decrease the local production of waste through the development of a market for recycled products"
 
 ## Industrial Symbiosis Case Studies
-* [International survey on eco-innovation parks](http://www.bafu.admin.ch/publikationen/publikation/01756/index.html?lang=en)
+* [Eco-Industrial Park Wiki](http://ie.tbm.tudelft.nl/index.php/Main_Page)
 * [Finnish Industrial Symbiosis System](http://www.industrialsymbiosis.fi)
 * [Industrial Symbiosis in Sweden](http://www.industriellekologi.se/symbiosis/)
-* [Waste Atlas](http://www.atlas.d-waste.com)
-* [The Near-Zero European Waste Innovation Network](http://www.newinnonet.eu/)
+* [International survey on eco-innovation parks](http://www.bafu.admin.ch/publikationen/publikation/01756/index.html?lang=en)
 * [IS Case Studies LinkedIn Group](https://www.linkedin.com/groups/3857726)
-* [Eco-Industrial Park Wiki](http://ie.tbm.tudelft.nl/index.php/Main_Page)
+* [National Industrial Symbiosis Programme (NISP) Case Studies](http://www.nispnetwork.com/media-centre/case-studies)
+* [The Near-Zero European Waste Innovation Network](http://www.newinnonet.eu/)
 
 ## Facility Databases
-
+* [Waste Atlas](http://www.atlas.d-waste.com)
 * [European Pollutant Release and Transfer Register (E-PRTR)](http://prtr.ec.europa.eu/#/home)
 * [Toxics Release Inventory (TRI) Program](https://www.epa.gov/toxics-release-inventory-tri-program)
   * [TRI Explorer - Waste Transfer Reports](https://iaspub.epa.gov/triexplorer/tri_transfer.chemical)
