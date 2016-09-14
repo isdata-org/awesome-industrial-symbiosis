@@ -25,6 +25,7 @@ Databases and other resources for Industrial Symbiosis
 
 * [European Pollutant Release and Transfer Register (E-PRTR)](http://prtr.ec.europa.eu/#/home)
 * [Toxics Release Inventory (TRI) Program](https://www.epa.gov/toxics-release-inventory-tri-program)
+  * [TRI Explorer - Waste Transfer Reports](https://iaspub.epa.gov/triexplorer/tri_transfer.chemical)
 
 ## Life Cycle Assessment Databases
 
@@ -33,7 +34,7 @@ Databases and other resources for Industrial Symbiosis
 ## Literature
 * [isdata-org/industrial-symbiosis-literature](https://github.com/isdata-org/industrial-symbiosis-literature) - Visual interface allowing you to explore literature on Industrial Symbiosis and Eco-Industrial Parks.
 
-## Classifications
+## Industry & Product Classifications
 * [isdata-org/what-links-to-what](https://github.com/isdata-org/what-links-to-what) - Ongoing work to make traversing industry and product classifications easier.
 
 ## Lists of Databases
