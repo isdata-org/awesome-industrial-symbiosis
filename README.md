@@ -14,6 +14,7 @@ Databases and other resources for Industrial Symbiosis
 * [LOWaste](http://www.lowaste.it/en/) - "The primary objective of LOWaste is to decrease the local production of waste through the development of a market for recycled products"
 
 ## Industrial Symbiosis Case Studies
+* [International survey on eco-innovation parks](http://www.bafu.admin.ch/publikationen/publikation/01756/index.html?lang=en)
 * [Finnish Industrial Symbiosis System](http://www.industrialsymbiosis.fi)
 * [Industrial Symbiosis in Sweden](http://www.industriellekologi.se/symbiosis/)
 * [Waste Atlas](http://www.atlas.d-waste.com)
@@ -28,7 +29,8 @@ Databases and other resources for Industrial Symbiosis
   * [TRI Explorer - Waste Transfer Reports](https://iaspub.epa.gov/triexplorer/tri_transfer.chemical)
 
 ## Life Cycle Assessment Databases
-
+* [European reference Life Cycle Database (ELCD)](eplca.jrc.ec.europa.eu/ELCD3/index.xhtml)
+* [U.S. Life Cycle Inventory Database](http://www.nrel.gov/lci/)
 * [Semantic Catalogs of LCA Data](https://bkuczenski.github.io/lca-tools-datafiles/)
  	
 ## Literature
