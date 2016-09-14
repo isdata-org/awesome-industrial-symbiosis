@@ -28,6 +28,9 @@ Databases and other resources for Industrial Symbiosis
 * [European Pollutant Release and Transfer Register (E-PRTR)](http://prtr.ec.europa.eu/#/home)
 * [Toxics Release Inventory (TRI) Program](https://www.epa.gov/toxics-release-inventory-tri-program)
   * [TRI Explorer - Waste Transfer Reports](https://iaspub.epa.gov/triexplorer/tri_transfer.chemical)
+* OpenStreetMap - useful for finding names + geographic coordinates of facilities
+  * [Waste Processing](http://wiki.openstreetmap.org/wiki/Waste_Processing)
+  * [Tag:landuse=industrial](http://wiki.openstreetmap.org/wiki/Tag:landuse%3Dindustrial)
 
 ## Life Cycle Assessment Databases
 * [CPM LCA Database](http://cpmdatabase.cpm.chalmers.se/)
