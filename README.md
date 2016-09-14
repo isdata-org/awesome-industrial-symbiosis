@@ -9,9 +9,10 @@ Databases and other resources for Industrial Symbiosis
 * [Phyllis2](https://www.ecn.nl/phyllis2/) - "database containing information on the composition of biomass and waste"
 * [The Materials Project](https://materialsproject.org/) - "By computing properties of all known materials, the Materials Project aims to remove guesswork from materials design in a variety of applications."
 
-## Waste Exchanges
+## Waste Exchanges & Waste Reduction Initiatives
 * [US BCSD Materials Marketplace](http://materialsmarketplace.org)
 * [LOWaste](http://www.lowaste.it/en/) - "The primary objective of LOWaste is to decrease the local production of waste through the development of a market for recycled products"
+ * [The Near-Zero European Waste Innovation Network](http://www.newinnonet.eu/)
 
 ## Industrial Symbiosis Case Studies
 * [Eco-Industrial Park Wiki](http://ie.tbm.tudelft.nl/index.php/Main_Page)
@@ -20,7 +21,6 @@ Databases and other resources for Industrial Symbiosis
 * [International survey on eco-innovation parks](http://www.bafu.admin.ch/publikationen/publikation/01756/index.html?lang=en)
 * [IS Case Studies LinkedIn Group](https://www.linkedin.com/groups/3857726)
 * [National Industrial Symbiosis Programme (NISP) Case Studies](http://www.nispnetwork.com/media-centre/case-studies)
-* [The Near-Zero European Waste Innovation Network](http://www.newinnonet.eu/)
 
 ## Facility Databases
 * [Waste Atlas](http://www.atlas.d-waste.com)
@@ -43,5 +43,4 @@ Databases and other resources for Industrial Symbiosis
 * [isdata-org/what-links-to-what](https://github.com/isdata-org/what-links-to-what) - Ongoing work to make traversing industry and product classifications easier.
 
 ## Lists of Databases
-
 * [Global Partnership on Waste Management - Waste Management Databases](http://www.unep.org/gpwm/KnowledgePlatform/WasteManagementDatabases/tabid/79590/Default.aspx)
