@@ -29,9 +29,11 @@ Databases and other resources for Industrial Symbiosis
   * [TRI Explorer - Waste Transfer Reports](https://iaspub.epa.gov/triexplorer/tri_transfer.chemical)
 
 ## Life Cycle Assessment Databases
+* [CPM LCA Database](http://cpmdatabase.cpm.chalmers.se/)
 * [European reference Life Cycle Database (ELCD)](eplca.jrc.ec.europa.eu/ELCD3/index.xhtml)
-* [U.S. Life Cycle Inventory Database](http://www.nrel.gov/lci/)
+* [GaBi](http://www.gabi-software.com/international/databases/gabi-databases/)
 * [Semantic Catalogs of LCA Data](https://bkuczenski.github.io/lca-tools-datafiles/)
+* [U.S. Life Cycle Inventory Database](http://www.nrel.gov/lci/)
  	
 ## Literature
 * [isdata-org/industrial-symbiosis-literature](https://github.com/isdata-org/industrial-symbiosis-literature) - Visual interface allowing you to explore literature on Industrial Symbiosis and Eco-Industrial Parks.
