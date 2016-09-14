@@ -10,9 +10,10 @@ Databases and other resources for Industrial Symbiosis
 * [The Materials Project](https://materialsproject.org/) - "By computing properties of all known materials, the Materials Project aims to remove guesswork from materials design in a variety of applications."
 
 ## Waste Exchanges & Waste Reduction Initiatives
-* [US BCSD Materials Marketplace](http://materialsmarketplace.org)
+* [e-Symbiosis](http://esymbiosis.clmsuk.com/)
 * [LOWaste](http://www.lowaste.it/en/) - "The primary objective of LOWaste is to decrease the local production of waste through the development of a market for recycled products"
- * [The Near-Zero European Waste Innovation Network](http://www.newinnonet.eu/)
+* [The Near-Zero European Waste Innovation Network](http://www.newinnonet.eu/)
+* [US BCSD Materials Marketplace](http://materialsmarketplace.org)
 
 ## Industrial Symbiosis Case Studies
 * [Eco-Industrial Park Wiki](http://ie.tbm.tudelft.nl/index.php/Main_Page)
