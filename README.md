@@ -24,6 +24,7 @@ Databases and other resources for Industrial Symbiosis
 * [International survey on eco-innovation parks](http://www.bafu.admin.ch/publikationen/publikation/01756/index.html?lang=en)
 * [IS Case Studies LinkedIn Group](https://www.linkedin.com/groups/3857726)
 * [National Industrial Symbiosis Programme (NISP) Case Studies](http://www.nispnetwork.com/media-centre/case-studies)
+* [Resource Optimization Initiative](http://www.roionline.org/case_study.php)
 
 ## Facility Databases
 * [Waste Atlas](http://www.atlas.d-waste.com)
