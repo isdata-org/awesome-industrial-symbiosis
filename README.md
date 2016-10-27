@@ -13,6 +13,8 @@ Databases and other resources for Industrial Symbiosis
 * [LOWaste](http://www.lowaste.it/en/) - "The primary objective of LOWaste is to decrease the local production of waste through the development of a market for recycled products"
 * [The Near-Zero European Waste Innovation Network](http://www.newinnonet.eu/)
 * [US BCSD Materials Marketplace](http://materialsmarketplace.org)
+* [Materials Innovation Exchange](http://www.materialsinnovationexchange.com/)
+
 
 ## Case Studies
 * [Eco-Industrial Park Wiki](http://ie.tbm.tudelft.nl/index.php/Main_Page)
