@@ -14,7 +14,7 @@ Databases and other resources for Industrial Symbiosis
 * [The Near-Zero European Waste Innovation Network](http://www.newinnonet.eu/)
 * [US BCSD Materials Marketplace](http://materialsmarketplace.org)
 * [Materials Innovation Exchange](http://www.materialsinnovationexchange.com/)
-
+* [http://www.simbiosiindustriale.it/Simbiosi-Industriale/](simbiosiindustriale.it)
 
 ## Case Studies
 * [Eco-Industrial Park Wiki](http://ie.tbm.tudelft.nl/index.php/Main_Page)
