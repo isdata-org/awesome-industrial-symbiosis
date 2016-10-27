@@ -15,6 +15,7 @@ Databases and other resources for Industrial Symbiosis
 * [US BCSD Materials Marketplace](http://materialsmarketplace.org)
 * [Materials Innovation Exchange](http://www.materialsinnovationexchange.com/)
 * [simbiosiindustriale.it](http://www.simbiosiindustriale.it/Simbiosi-Industriale/)
+* [SymbioSyS](http://link.springer.com/article/10.1007/s12649-016-9748-1)
 
 ## Case Studies
 * [Eco-Industrial Park Wiki](http://ie.tbm.tudelft.nl/index.php/Main_Page)
