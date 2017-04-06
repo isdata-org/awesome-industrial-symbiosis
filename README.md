@@ -21,6 +21,7 @@ Databases and other resources for Industrial Symbiosis
 ## Case Studies
 * [Eco-Industrial Park Wiki](http://ie.tbm.tudelft.nl/index.php/Main_Page)
 * [Finnish Industrial Symbiosis System](http://www.industrialsymbiosis.fi)
+* [Industrial Efficiency Technology Database](http://ietd.iipnetwork.org/)
 * [Industrial Symbiosis in Sweden](http://www.industriellekologi.se/symbiosis/)
 * [International survey on eco-innovation parks](http://www.bafu.admin.ch/publikationen/publikation/01756/index.html?lang=en)
 * [IS Case Studies LinkedIn Group](https://www.linkedin.com/groups/3857726)
