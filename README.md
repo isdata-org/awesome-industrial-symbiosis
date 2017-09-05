@@ -17,6 +17,7 @@ Databases and other resources for Industrial Symbiosis
 * [MarketplaceHUB](http://marketplacehub.org/) - "a tool for businesses and policymakers to establish a network of circular economy practitioners"
 * [simbiosiindustriale.it](http://www.simbiosiindustriale.it/Simbiosi-Industriale/)
 * [SymbioSyS](http://link.springer.com/article/10.1007/s12649-016-9748-1)
+* [Synergie Quebec](http://www.synergiequebec.ca/)
 
 ## Case Studies
 * [Eco-Industrial Park Wiki](http://ie.tbm.tudelft.nl/index.php/Main_Page)
