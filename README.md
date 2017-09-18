@@ -59,6 +59,7 @@ Databases and other resources for Industrial Symbiosis
 
 ## Other
 * [EBI Metagenomics](https://www.ebi.ac.uk/metagenomics/) - contains data on microbial populations in sludges.
+  * [The microbial database of activated sludge - Denmark (MiDAS-DK)](https://www.ebi.ac.uk/metagenomics/projects/ERP009143)
 
 ## Meta Lists of Databases
 * [Global Partnership on Waste Management - Waste Management Databases](http://www.unep.org/gpwm/KnowledgePlatform/WasteManagementDatabases/tabid/79590/Default.aspx)
