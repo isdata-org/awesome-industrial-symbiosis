@@ -57,6 +57,9 @@ Databases and other resources for Industrial Symbiosis
 ## Industry & Product Classifications
 * [isdata-org/what-links-to-what](https://github.com/isdata-org/what-links-to-what) - Ongoing work to make traversing industry and product classifications easier.
 
+## Chemical Databases
+* [eChemPortal: Global Portal to Information on Chemical Substances (OECD)](http://www.oecd.org/chemicalsafety/risk-assessment/echemportalglobalportaltoinformationonchemicalsubstances.htm)
+
 ## Other
 * [EBI Metagenomics](https://www.ebi.ac.uk/metagenomics/) - contains data on microbial populations in sludges.
   * [The microbial database of activated sludge - Denmark (MiDAS-DK)](https://www.ebi.ac.uk/metagenomics/projects/ERP009143)
