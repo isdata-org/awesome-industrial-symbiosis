@@ -34,13 +34,14 @@ Databases and other resources for Industrial Symbiosis
 * [Resource Optimization Initiative](http://www.roionline.org/case_study.php)
 
 ## Facility Databases
-* [Waste Atlas](http://www.atlas.d-waste.com)
+* [Centre for PRTR Data](http://www.oecd.org/env_prtr_data/) Numerous Pollutant Release and Transfer Registers by the OECD
 * [European Pollutant Release and Transfer Register (E-PRTR)](http://prtr.ec.europa.eu/#/home)
 * [Toxics Release Inventory (TRI) Program](https://www.epa.gov/toxics-release-inventory-tri-program)
   * [TRI Explorer - Waste Transfer Reports](https://iaspub.epa.gov/triexplorer/tri_transfer.chemical)
 * OpenStreetMap - useful for finding names + geographic coordinates of facilities
   * [Waste Processing](http://wiki.openstreetmap.org/wiki/Waste_Processing)
   * [Tag:landuse=industrial](http://wiki.openstreetmap.org/wiki/Tag:landuse%3Dindustrial)
+* [Waste Atlas](http://www.atlas.d-waste.com)
 
 ## Life Cycle Assessment Databases
 * [CPM LCA Database](http://cpmdatabase.cpm.chalmers.se/)
@@ -49,12 +50,15 @@ Databases and other resources for Industrial Symbiosis
 * [openLCA Nexus](https://nexus.openlca.org/) - search engine for several LCA databases
 * [Semantic Catalogs of LCA Data](https://bkuczenski.github.io/lca-tools-datafiles/)
 * [U.S. Life Cycle Inventory Database](http://www.nrel.gov/lci/)
- 	
+
 ## Literature
 * [isdata-org/industrial-symbiosis-literature](https://github.com/isdata-org/industrial-symbiosis-literature) - Visual interface allowing you to explore literature on Industrial Symbiosis and Eco-Industrial Parks.
 
 ## Industry & Product Classifications
 * [isdata-org/what-links-to-what](https://github.com/isdata-org/what-links-to-what) - Ongoing work to make traversing industry and product classifications easier.
+
+## Other
+* [EBI Metagenomics](https://www.ebi.ac.uk/metagenomics/) - contains data on microbial populations in sludges.
 
 ## Meta Lists of Databases
 * [Global Partnership on Waste Management - Waste Management Databases](http://www.unep.org/gpwm/KnowledgePlatform/WasteManagementDatabases/tabid/79590/Default.aspx)
