@@ -14,11 +14,14 @@ Databases and other resources for Industrial Symbiosis
 ## Waste Exchanges & Waste Reduction Initiatives
 * [Dansk Symbiosecenter (Symbiosis Center Denmark)](http://www.symbiosecenter.dk/en/)
 * [e-Symbiosis](http://esymbiosis.clmsuk.com/)
+* [Life M3P](http://www.lifem3p.eu/en/) - "Material Match Making Platform"
 * [LOWaste](http://www.lowaste.it/en/) - "The primary objective of LOWaste is to decrease the local production of waste through the development of a market for recycled products"
+* [MAESTRI](https://maestri-spire.eu/) - "Energy and resource management systems for improved efficiency in the process industries"
 * [The Near-Zero European Waste Innovation Network](http://www.newinnonet.eu/)
 * [US BCSD Materials Marketplace](http://materialsmarketplace.org)
 * [Materials Innovation Exchange](http://www.materialsinnovationexchange.com/)
 * [MarketplaceHUB](http://marketplacehub.org/) - "a tool for businesses and policymakers to establish a network of circular economy practitioners"
+* [Sharebox](http://sharebox-project.eu/) - "Delivering next generation Industrial Symbiosis; a flexible resources sharing platform that identifies new synergy opportunities."
 * [simbiosiindustriale.it](http://www.simbiosiindustriale.it/Simbiosi-Industriale/)
 * [SymbioSyS](http://link.springer.com/article/10.1007/s12649-016-9748-1)
 * [Synergie Quebec](http://www.synergiequebec.ca/)
@@ -30,6 +33,8 @@ Databases and other resources for Industrial Symbiosis
 * [Industrial Symbiosis in Sweden](http://www.industriellekologi.se/symbiosis/)
 * [International survey on eco-innovation parks](http://www.bafu.admin.ch/publikationen/publikation/01756/index.html?lang=en)
 * [IS Case Studies LinkedIn Group](https://www.linkedin.com/groups/3857726)
+* [MAESTRI Exchanges Database](https://maestri-spire.eu/wp-content/uploads/2017/10/Exchanges-database.xlsm)
+* [MAESTRI Library of Case Studies](https://maestri-spire.eu/symbiosis-space/library-case-studies/)
 * [National Industrial Symbiosis Programme (NISP) Case Studies](http://www.nispnetwork.com/media-centre/case-studies)
 * [Resource Optimization Initiative](http://www.roionline.org/case_study.php)
 
