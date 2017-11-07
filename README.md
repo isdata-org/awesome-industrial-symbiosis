@@ -13,6 +13,7 @@ Databases and other resources for Industrial Symbiosis
 
 ## Waste Exchanges & Waste Reduction Initiatives
 * [Dansk Symbiosecenter (Symbiosis Center Denmark)](http://www.symbiosecenter.dk/en/)
+* [EPOS](https://www.spire2030.eu/epos) - "Enhanced energy and resource Efficiency and Performance in process industry Operations via onsite and cross-sectorial Symbiosis"
 * [e-Symbiosis](http://esymbiosis.clmsuk.com/)
 * [Life M3P](http://www.lifem3p.eu/en/) - "Material Match Making Platform"
 * [LOWaste](http://www.lowaste.it/en/) - "The primary objective of LOWaste is to decrease the local production of waste through the development of a market for recycled products"
